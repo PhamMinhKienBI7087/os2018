@@ -10,5 +10,5 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Example Name
-* ID: *YourIdHere*
+* Name: Pham Minh Kiên
+* ID: BI7-087
