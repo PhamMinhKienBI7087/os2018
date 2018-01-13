@@ -1,0 +1,18 @@
+ls
+Desktop    Downloads  Music   Pictures  Templates
+Documents  files      os2018  Public    Videos
+ls | grep list
+
+ cat /etc/passwd | wc -l
+42
+free -m
+              total        used        free      shared  buff/cache   available
+Mem:           1997        1128         113          36         756         646
+Swap:          2045           0        2045
+ cat /proc/cpuinfo | grep "cpu core"
+cpu cores	: 1
+
+cd ~/Pictures
+ ~/Pictures $ find -name "*.jpg" | wc -l
+0
+
